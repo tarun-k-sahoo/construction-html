@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 25 Sep 2023 16:57:51 at https://devsdesign.net/products/html/konstruk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://devsdesign.net/products/html/konstruk/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://devsdesign.net/products/html/konstruk/ -O1 "C:\Users\Tarun sahoo\Desktop\construction" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://devsdesign.net/products/html/konstruk/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:59:40	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/apple-touch-icon.png (from https://devsdesign.net/products/html/konstruk/)
+17:05:53	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/services.html (from https://devsdesign.net/products/html/konstruk/)
+17:06:13	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/assets/css/owl.video.play.png (from https://devsdesign.net/products/html/konstruk/assets/css/owl.carousel.css)
+17:06:13	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://devsdesign.net/products/html/konstruk/assets/images/close.png (from https://devsdesign.net/products/html/konstruk/style.css)
+17:06:13	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://devsdesign.net/products/html/konstruk/assets/images/about/about-13.png (from https://devsdesign.net/products/html/konstruk/style.css)
+17:06:13	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://devsdesign.net/products/html/konstruk/assets/images/bg/about-13bg-1.png (from https://devsdesign.net/products/html/konstruk/style.css)
+17:06:13	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/preconstruction (from https://devsdesign.net/products/html/konstruk/index3.html)
+17:06:13	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/assets/inc/custom-slider/css/nivo-slider.css (from https://devsdesign.net/products/html/konstruk/onepage8.html)
+17:06:13	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/assets/inc/custom-slider/css/preview.css (from https://devsdesign.net/products/html/konstruk/onepage8.html)
+17:06:13	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/assets/inc/custom-slider/js/jquery.nivo.slider.js (from https://devsdesign.net/products/html/konstruk/onepage8.html)
+17:06:13	Error: 	"Service Unavailable" (503) at link https://devsdesign.net/products/html/konstruk/contact1.html (from https://devsdesign.net/products/html/konstruk/general-construction.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 31 seconds : 576 links scanned, 564 files written (147126408 bytes overall) [142552167 bytes received at 278967 bytes/sec], 6160705 bytes transferred using HTTP compression in 112 files, ratio 21%, 7.3 requests per connection
+(8 errors, 3 warnings, 0 messages)
